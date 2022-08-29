@@ -15,10 +15,10 @@ public class java0829 {
 	
 		in.close();
 		
-		System.out.print((A+B)%C);
+		System.out.println((A+B)%C);
 		System.out.println((A%C) + (B%C)%C);
 		System.out.println((A*B)%C);
-		System.out.println(((A%C) * (B%C))%C);
+		System.out.println((A%C * B%C)%C);
 		
 	}
 
