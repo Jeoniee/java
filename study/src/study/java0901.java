@@ -10,11 +10,12 @@ public class java0901 {
 		Scanner in = new Scanner(System.in);
 		
 		
-		System.out.print(	"|\\_/|\n" +
-							"|q p|   /}\n" +
-							"( 0 )\"\"\"\\\n" +
-							"|\"^\"`    |\n" +
-							"||_/=\\\\__|\n");
+		System.out.print("         ,r\'\"7\n" +
+				"r`-_   ,\'  ,/\n" +
+				 " \\. \". L_r'\n" +
+				   "   `~\\/\n" +
+				      "      |\n" +
+				      "      |");
 	}
 
 }
